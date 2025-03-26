@@ -7,7 +7,9 @@ int main() {
 		case 1:
 			printf("btech in CSE\n");
 			break;
-		
+		case 2:
+			printf("btech in AIML\n");
+			break;
 
 			return 0;
 }

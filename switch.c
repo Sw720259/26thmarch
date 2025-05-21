@@ -16,6 +16,9 @@ int main() {
 		case 4:
 			printf("btech in mechanical\n");
 			break;
+                case 5:
+			this courses;
+			break;
 
 			return 0;
 }
